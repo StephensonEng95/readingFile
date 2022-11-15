@@ -1,4 +1,5 @@
 # readingFile
 
-This program take file input from the user storing it as string and reads the file if is open, 
-else wil throw an error that can't open the file.
+This program takes in a fie input from the user
+storing it as a string and using the class method to read the file if the file could be opened
+else it would give out an error message that the file can't be opened.
